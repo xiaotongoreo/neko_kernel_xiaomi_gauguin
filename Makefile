@@ -2,7 +2,7 @@
 VERSION = 4
 PATCHLEVEL = 19
 SUBLEVEL = 264
-EXTRAVERSION = -xiaotongoreo-KernelSU-LXC
+EXTRAVERSION = -xiaotongoreo-KernelSU
 NAME = "People's Front"
 
 # *DOCUMENTATION*
